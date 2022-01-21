@@ -1,0 +1,2 @@
+Para correr el proyecto, instalar dependencias en ambas carpetas, luego npm start desde la carpeta Proyecto-twitter para inicializar el script de react-create-app de la carpeta usuario y nodemon con el server. 
+El twitturu puede hacer registros, login, postear, ver perfil, follow, dar unfollow. Pero para hacer logout hay que refrescar la pag luego de dar click en la opción.
